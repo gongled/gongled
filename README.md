@@ -1,6 +1,6 @@
 ## About
 
-I am Linux/UNIX operations engineer at [FunBox](https://funbox.ru/). Design, develop and support infrastructure using open-source software.
+I am Linux/UNIX operations engineer at [SberMarket](https://sbermarket.ru/). Design, develop and support infrastructure using open-source software.
 
 ## Contacts
 
