@@ -4,7 +4,7 @@ I am Linux/UNIX operations engineer at [SberMarket](https://sbermarket.ru/). Des
 
 ## Contacts
 
-- [Homepage](https://gongled.ru/) (Russian only)
+- [Homepage](https://gongled.ru/en/)
 - [LinkedIn](https://www.linkedin.com/in/gongled)
 - [E-mail](mailto:inbox@gongled.ru)
 - [Telegram](https://t.me/@gongled)
